@@ -9,6 +9,13 @@ DEMO Y REAL:
 
 
 EJERCICIO 1. TIPOS DE PRODUCTO:
-<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/03bd7c2c-d240-4baa-89c9-7d43a2941c83" />
 
+Bienes (Con rastreo de inventario)
+<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/490c9467-58f9-4730-802e-3ae98bb76154" />
+
+Bienes (Sin rastreo de inventario)
+<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/dbce0cad-3273-4d6e-9556-3dd53961c02b" />
+
+Servicio:
+<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/5d031d23-bd05-4c22-9d6c-d167e5561e47" />
 
