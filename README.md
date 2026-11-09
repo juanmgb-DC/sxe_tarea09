@@ -114,4 +114,7 @@ Modelo de factura:
 <img width="1920" height="710" alt="imagen" src="https://github.com/user-attachments/assets/4c044630-f8a6-4d6a-a924-7dccf4e4c106" />
 
 
+INCIDENCIAS / DECLARACION DE IA
+
+Me apoyé en la IA (Claude) para buscar como era la segunda via para entrar como desarrollador y para saber como buscar el nombre tecnico del Contacto y el Modelo
 
