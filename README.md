@@ -71,5 +71,10 @@ Chatter:
 
 
 
+EJERCICIO 3. BÚSQUEDA GUARDADA:
+
+<img width="1920" height="572" alt="imagen" src="https://github.com/user-attachments/assets/6f0243bd-67d9-494d-adc1-841afbfa9a85" />
+
+
 
 
