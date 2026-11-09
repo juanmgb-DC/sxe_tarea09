@@ -76,5 +76,42 @@ EJERCICIO 3. BÚSQUEDA GUARDADA:
 <img width="1920" height="572" alt="imagen" src="https://github.com/user-attachments/assets/6f0243bd-67d9-494d-adc1-841afbfa9a85" />
 
 
+EJERCICIO 4. MODO DESARROLLADOR.
+
+
+VIA 1:
+
+Ajustes (Bajas hasta esta opcion y marcas Activar modo desarrollador):
+<img width="474" height="177" alt="imagen" src="https://github.com/user-attachments/assets/7af7ea20-fe80-4cca-8428-8e7d8496dfa6" />
+
+
+Modo desarrollador activo
+<img width="530" height="113" alt="imagen" src="https://github.com/user-attachments/assets/b9a5aa0c-5dbe-41c8-be6b-e378792e5bab" />
+
+
+VIA 2:
+
+Entrando con esta url
+<img width="1405" height="135" alt="imagen" src="https://github.com/user-attachments/assets/a4ae54bc-cd39-4953-bf04-1227adfc22b3" />
+
+
+<img width="375" height="698" alt="imagen" src="https://github.com/user-attachments/assets/81d63edb-302a-4ce0-9aac-3a0aa97f0056" />
+
+
+Informatica Vinicius:
+
+Nombre técnico: "name"
+
+<img width="144" height="22" alt="imagen" src="https://github.com/user-attachments/assets/178bd935-c937-4a75-83f3-87e7cbc188bc" />
+
+Nombre técnico CIF: "vat"
+
+<img width="434" height="26" alt="imagen" src="https://github.com/user-attachments/assets/9e0d0bb8-7df5-41d8-aaeb-0271aa0cfa17" />
+
+Modelo de factura: 
+
+<img width="1920" height="747" alt="imagen" src="https://github.com/user-attachments/assets/2a32b562-b9c8-450b-904e-a3e436d4bdbd" />
+<img width="1920" height="710" alt="imagen" src="https://github.com/user-attachments/assets/4c044630-f8a6-4d6a-a924-7dccf4e4c106" />
+
 
 
