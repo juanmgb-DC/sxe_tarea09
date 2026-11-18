@@ -25,30 +25,35 @@ Combinacion:
 
 EJERCICIO 2. RECORRIDO:
 
-Contacto Empresa:
+Comparacion Contacto Empresa + Ver como quedan vinculadas las Personas a ella:
 <img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/fb3cb902-8943-43a9-8c7e-f2561381448d" />
 
-Contacto Persona:
+Creacion de un Contacto Persona:
 <img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/30297aeb-063c-4d59-ae3e-a41566ecaeeb" />
 
 
-Crear Cliente:
+Creacion de un Cliente:
 <img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/38945781-17e5-4eca-871d-a601fe567760" />
 
 Productos: 
 
+Creacion del servicio Hora de Soporte con un 21% de IVA
 1 - <img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/6d8f3bf9-a8b5-4d72-bd8a-6c2ba8c85f4e" />
 
+Creacion del bien Libro Técnico con un 21% de IVA
 2 - <img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/fa80c30c-af02-4fb7-b224-ac036b9ca1a2" />
 
 Ventas:
 
+Creacion de un presupuesto con los 2 productos anteriores y envio 
 <img width="1914" height="905" alt="imagen" src="https://github.com/user-attachments/assets/0ce7556f-4e4f-420b-9ee2-3834c05625ad" />
 
 <img width="1914" height="905" alt="imagen" src="https://github.com/user-attachments/assets/dc283d94-3fbe-46f1-bcd5-4836a5c9eb89" />
 
 
 Facturación: 
+
+Creacion de una Factura y registramiento del pago
 
 <img width="1914" height="905" alt="imagen" src="https://github.com/user-attachments/assets/02a718fd-dc3a-4cd1-8799-c57d62326271" />
 
@@ -62,6 +67,8 @@ Facturación:
 
 
 Chatter:
+
+Programacion de una actividad:
 
 <img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/091bb366-1be6-4d2c-810e-6739bbc22c42" />
 
@@ -115,5 +122,10 @@ Modelo de factura:
 
 INCIDENCIAS / DECLARACION DE IA
 
-Me apoyé en la IA (Claude) para buscar como era la segunda via para entrar como desarrollador y para saber como buscar el nombre tecnico del Contacto y el Modelo
+Incidencia 1 - Fallo en creacion y configuracion de Almacen -     Solucion: Cree un almacen valido y le di la configuracion necesaria
+
+Incidencia 2 - Compañía localizada en Estados Unidos por lo que los impuestos eran incorrectos -     Solucion: Modificar arriba a la derecha por ES Company 
+
+Me apoyé en la IA (Claude) para buscar como era la segunda via para entrar como desarrollador y para saber como buscar el nombre tecnico del Contacto y el Modelo.
+Desconocia la otra manera de entrar como desarrollador por lo que le puse en contexto a la IA y me dio los pasos para poder entrar de esa manera.
 
