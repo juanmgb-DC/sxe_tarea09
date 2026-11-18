@@ -43,26 +43,22 @@ Productos:
 
 Ventas:
 
-<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/a4ae9819-99d1-48dc-bd32-970c8581f5ad" />
+<img width="1914" height="905" alt="imagen" src="https://github.com/user-attachments/assets/0ce7556f-4e4f-420b-9ee2-3834c05625ad" />
 
-<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/2dfcf46a-4481-4ea8-bbe3-faa1d35b7c37" />
-
-<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/b4b16bd6-8c7d-4b7e-9f29-a9c9dd7192dc" />
+<img width="1914" height="905" alt="imagen" src="https://github.com/user-attachments/assets/dc283d94-3fbe-46f1-bcd5-4836a5c9eb89" />
 
 
 Facturación: 
 
-<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/ab3f53cc-f36b-438c-a9a9-68fbbe394789" />
+<img width="1914" height="905" alt="imagen" src="https://github.com/user-attachments/assets/02a718fd-dc3a-4cd1-8799-c57d62326271" />
 
-<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/d283b1dd-1467-4276-a066-a73d9c8bf4eb" />
+<img width="1914" height="1034" alt="imagen" src="https://github.com/user-attachments/assets/18b38c5f-95f4-430c-98ea-c0c7ce5e5f4a" />
 
-<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/f9275a0c-23ed-4579-b041-5637061db4ed" />
+<img width="1914" height="1034" alt="imagen" src="https://github.com/user-attachments/assets/785d2129-0174-4513-bf5a-d038f500bdc1" />
 
-<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/969f057e-bf7d-47fe-bff2-2b416719576d" />
+<img width="1914" height="546" alt="imagen" src="https://github.com/user-attachments/assets/20d2cf1a-ee3e-4dc4-b703-606beaeb8fb3" />
 
-<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/652439fb-8ce1-4ff1-93f4-43a753e1790c" />
-
-<img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/728773ce-24d3-4d08-9edb-899d335d332e" />
+<img width="1914" height="958" alt="imagen" src="https://github.com/user-attachments/assets/61819a5b-0f7d-4851-aede-f40d8f9d7a8b" />
 
 
 Chatter:
