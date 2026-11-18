@@ -19,6 +19,9 @@ Bienes (Sin rastreo de inventario)
 Servicio:
 <img width="1920" height="1003" alt="imagen" src="https://github.com/user-attachments/assets/5d031d23-bd05-4c22-9d6c-d167e5561e47" />
 
+Combinacion:
+<img width="1914" height="698" alt="imagen" src="https://github.com/user-attachments/assets/e9eecbb3-59e0-4806-be9b-7e6b4702374f" />
+
 
 EJERCICIO 2. RECORRIDO:
 
